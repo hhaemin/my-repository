@@ -2,10 +2,11 @@
 
 test file
 
-안녕하세요!
+<pre>
 
-This is an H1
-============
+<code>
 
-This is an H2
-------------
+This is a code
+
+</code>
+</pre>
