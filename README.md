@@ -21,3 +21,7 @@ text
 2. _이탤릭체(기울여서)_
 3. ~~취소선~~
 4. __볼드 사이에 *기울여서* 다시 볼드__
+
+http://google.com
+<br>
+<http://goolgle.com>
