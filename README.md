@@ -25,3 +25,7 @@ text
 http://google.com
 <br>
 <http://goolgle.com>
+
+Link:[Google][googlelink]
+
+[googlelink]:http://google.com
